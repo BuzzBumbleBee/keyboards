@@ -1,0 +1,50 @@
+{
+    "keyboard_name": "65f_072",
+    "manufacturer": "buzzbumblebee",
+    "usb": {
+        "vid": "0xB333",
+        "pid": "0xB55B",
+        "device_version": "0.0.1"
+    },
+    "url": "", 
+    "maintainer": "buzzbumblebee", 
+    "width": 12.75, 
+    "height": 4, 
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"esc", "matrix": [0, 0], "x":0, "y":0},
+                {"label":"1",   "matrix": [0, 1], "x":1, "y":0},
+                {"label":"2",   "matrix": [0, 2], "x":2, "y":0},
+                {"label":"3",   "matrix": [0, 3], "x":3, "y":0},
+                {"label":"4",   "matrix": [0, 4], "x":4, "y":0},
+                {"label":"5",   "matrix": [0, 5], "x":5, "y":0},
+                {"label":"6",   "matrix": [0, 6], "x":6, "y":0},
+                {"label":"7",   "matrix": [0, 7], "x":7, "y":0},
+                {"label":"8",   "matrix": [0, 8], "x":8, "y":0},
+                {"label":"9",   "matrix": [0, 9], "x":9, "y":0},
+                {"label":"0",   "matrix": [0, 10], "x":10, "y":0},
+                {"label":"-",   "matrix": [0, 11], "x":11, "y":0},
+                {"label":"=",   "matrix": [0, 12], "x":12, "y":0},
+                {"label":"BKSP",   "matrix": [0, 14], "x":13, "y":0, "w": 2},
+                {"label":"DEL",    "matrix": [0, 15], "x":15, "y":0},
+
+
+                {"label":"TAB",  "matrix": [0, 0], "x":0, "y":1, "w": 1.5},
+                {"label":"Q",    "matrix": [0, 0], "x":1.5, "y":1},
+                {"label":"W",    "matrix": [0, 0], "x":2.5, "y":1},
+                {"label":"E",    "matrix": [0, 0], "x":3.5, "y":1},
+                {"label":"R",    "matrix": [0, 0], "x":4.5, "y":1},
+                {"label":"T",    "matrix": [0, 0], "x":6.5, "y":1},
+                {"label":"Y",    "matrix": [0, 0], "x":7.5, "y":1},
+                {"label":"U",    "matrix": [0, 0], "x":9.5, "y":1},
+                {"label":"I",    "matrix": [0, 0], "x":10.5, "y":1},
+                {"label":"O",    "matrix": [0, 0], "x":0, "y":1},
+                {"label":"P",    "matrix": [0, 0], "x":0, "y":1},
+                {"label":"[",    "matrix": [0, 0], "x":0, "y":1},
+                {"label":"]",    "matrix": [0, 0], "x":0, "y":1}
+
+            ]
+        }
+    }
+}
